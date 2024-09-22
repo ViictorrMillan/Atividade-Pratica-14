@@ -1,0 +1,35 @@
+.nav-link {
+    font-size: 1.4rem; 
+    color: #f8e8e8;
+    margin-left: 10px;
+    padding: 5px 10px;
+}
+
+.nav-link:hover {
+    color: #ffffff; 
+    background-color: rgb(96, 107, 1);
+    font-size: 1.6rem;
+}
+
+.carousel {
+    height: 400px;
+}
+.carousel-inner img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover; 
+}
+
+.spacing {
+    margin-right: 10rem; 
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color:#ffc107;
+    text-align: center;
+    padding: 1rem 0;
+}
