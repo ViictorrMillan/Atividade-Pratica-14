@@ -23,4 +23,4 @@ Este é um site estático criado para apresentar La Cantinella, um restaurante q
 - GitHub Pages
 
 ## Como Acessar
-O site está disponível em: [La Cantinella](https://seu-usuario.github.io/nome-do-repositorio)
+O site está disponível em: [Atividade 14](https://viictorrmillan.github.io/Atividade-Pratica-14/)
